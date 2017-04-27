@@ -1,0 +1,20 @@
+{
+  "name": "blaysku",
+  "description": "",
+  "main": "",
+  "authors": [
+    "blaysku"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "PACE": "pace#^1.0.2"
+  }
+}
